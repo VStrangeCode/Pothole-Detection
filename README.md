@@ -1,2 +1,2 @@
 # Pothole-Detection
-This repo is based on a machine learning project that detects potholes using 
+This project is based on a machine learning that detects potholes on roads.
